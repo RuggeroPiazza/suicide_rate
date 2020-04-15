@@ -13,3 +13,19 @@ Any suggestion to correct and improve the results showed or the code used, is mo
 Thanks a lot for your time.
 
 Ruggero Piazza
+
+
+HOW TO RUN THE NOTEBOOK:
+
+If you don't want to clone the repository:
+
+1 - Open the jupiter notebook file here in the repository
+
+2 - At the very top of the notebook, on the right, click on the button "Raw" (next to "Blame", "History")
+
+3 - Save the file with Ctrl + S
+
+4 - in the saving window now opened, navigate to the directory where you want the file to be saved
+
+BEFORE SAVING THE FILE: make sure the file format is .ipynb (not .txt) and in the "Save as Type" option, "All files" is selected rather than "Text files"
+

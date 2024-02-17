@@ -15,7 +15,7 @@ Thanks a lot for your time.
 Ruggero Piazza
 
 P.S.
-I've added a link to toggle on/off the raw code for easier reading. It's located on the first line of 2Data observing and Cleaning" section.
+I've added a link to toggle on/off the raw code for easier reading. It's located on the first line of "Data observing and Cleaning" section.
 
 HOW TO RUN THE NOTEBOOK:
 
